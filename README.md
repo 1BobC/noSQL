@@ -1,6 +1,8 @@
 # noSQL
-<!-- "Firebase and Firestore database tutorials starting at Section 16 #127" -->
+"Firebase and Firestore database tutorials starting at Section 16 #127"
 <!-- "#127. NoSQL Databases" -->
 <!-- #128. Firebase & Firestore -->
 <!-- #129. Connecting to Firestore -->
 <!-- #130. Getting Collections -->
+"Complete to 4-17 of 130 all set up and working connection to noSQL index page Add data to db"
+"Complete to end of 130 get documents"
